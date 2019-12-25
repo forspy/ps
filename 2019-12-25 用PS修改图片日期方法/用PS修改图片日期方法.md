@@ -15,3 +15,5 @@
 ![](pic/establish_pic.png)
 
 ![](pic/pic_level.jpg)
+
+ctrl+空格配合鼠标进行缩放
